@@ -1,0 +1,37 @@
+header.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.header .logo{
+    font-family: inter;
+    font-weight: bold;
+}
+.header .buttons{
+    display: flex;
+}
+.header .contact-us{
+    background-color: #F0F0F0;
+    border: black 1px solid;
+    border-radius: 5px;
+    padding: 0 15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: inter ;
+
+}
+.header .cart{
+    display: flex;
+    margin: 0 0 0 15px;
+    cursor: pointer;
+}
+.header .cart img{
+    width: 20px;
+    margin: 0 5px;
+}
+.header .cart h1{
+    font-size: 15px;
+    margin: 5px 0 0  0;
+    font-family: inter;
+}
