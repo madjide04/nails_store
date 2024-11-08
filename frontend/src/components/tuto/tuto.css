@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');.tuto{
+    text-align: center;
+    margin: 20px 0;
+    font-family: inter;
+}
+
+.tuto h1{
+    margin: 10px 0;
+}
+.tuto .steps {
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    margin: auto;
+    margin-top: 30px;
+    width: 90%;
+}
+
+.tuto .steps img{
+    width: 100px;
+}
+
+
